@@ -1,4 +1,5 @@
 
+import java.sql.PseudoColumnUsage;
 import java.util.Arrays;
 
 public class insertSort {
@@ -22,5 +23,8 @@ public class insertSort {
         for (int i = 0; i < 100; i++) {
             System.out.println("hi");
         }
+    }
+    public void eat(){
+
     }
 }
