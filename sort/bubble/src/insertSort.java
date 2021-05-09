@@ -18,4 +18,9 @@ public class insertSort {
         System.out.println(Arrays.toString(arr));
 
     }
+    public void main(){
+        for (int i = 0; i < 100; i++) {
+            System.out.println("hi");
+        }
+    }
 }
