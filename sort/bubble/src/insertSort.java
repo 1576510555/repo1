@@ -27,7 +27,5 @@ public class insertSort {
     public void eat(){
 
     }
-    public void fly(){
 
-    }
 }
